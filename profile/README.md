@@ -50,8 +50,8 @@ That would be really fantastic! If you've found one of our projects valuable and
 You can also check our profile in [NuGet](https://www.nuget.org/profiles/Lombiq).
 
 Would you like to get in touch with us? Feel free to reach out to us through our Social media accounts:
-* [Twitter ](https://twitter.com/Lombiq)
-* [YouTube ](https://www.youtube.com/c/LombiqTechnologies)
-* [LinkedIn ](https://www.linkedin.com/company/3162451/) 
+* [Twitter](https://twitter.com/Lombiq)
+* [YouTube](https://www.youtube.com/c/LombiqTechnologies)
+* [LinkedIn](https://www.linkedin.com/company/3162451/) 
 
 Or you can write us an email using the following link: [contact us](https://lombiq.com/contact-us).
