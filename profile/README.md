@@ -7,16 +7,20 @@ Our main area of expertise is the Orchard Core content management system. We pro
 ## Products:
 
 * [**Hastlayer**](https://hastlayer.com/) turns performance-critical sections of .NET programs into computer chips (FPGA). You can still update your software, but it will be a whole lot faster and more power-efficient.
-![Hastlayer logo](https://user-images.githubusercontent.com/68704777/171685373-7a64e9bf-b0fc-431d-a8d1-9027e0989b15.png)
 
-* [**DotNest** ](https://dotnest.com/) We've developed DotNest as a software-as-a-service for Orchard CMS, enabling users to create their websites using Orchard in a flash. Today it runs more than 6000 websites.
-![DotNest](https://user-images.githubusercontent.com/68704777/171690190-225d15a4-412d-40f4-b97f-63e192b4e596.png)
+ <img src="https://user-images.githubusercontent.com/68704777/173390183-8c2e83ae-9ce3-47c4-a62e-4c58d83648e0.png" width="1000" height="250">
 
+
+* [**DotNest**](https://dotnest.com/) We've developed DotNest as a software-as-a-service for Orchard CMS, enabling users to create their websites using Orchard in a flash. Today it runs more than 6000 websites.
+
+
+<img src="https://user-images.githubusercontent.com/68704777/173390495-9c1fa7a2-084c-4a9b-bc6b-c59e183fb784.png" width="400" height="400">
+ 
 ## Our services:
 
 ### Software development:
  
-Our team’s passion is developing software with care for clients who need help with their most extraordinary projects in the following frameworks:
+Our team's passion is developing software with care for clients who need help with their most extraordinary projects in the following frameworks:
 
 - Orchard Core.
 - Orchard CMS.
@@ -30,15 +34,19 @@ We offer Orchard consulting in both Orchard editions, Orchard Core and Orchard C
 ### Training:
 
 Our team of dedicated experts is here to help groups and individuals who want to learn about Orchard or simply broaden their coding knowledge. Our [Orchard Dojo](https://orcharddojo.net/) website contains several training sessions to help beginners become experts.
-![Orchard Dojo](https://user-images.githubusercontent.com/68704777/172860375-ae1dc9a2-e46a-483a-ad5c-350a11ed732f.PNG)
+
+
+ <img src="https://user-images.githubusercontent.com/68704777/173390286-1f294d11-feba-44c2-a3e2-d0bcdd3f60ff.png" width="1200" height="250">
+
 
 
 **We also contribute a vast amount of code, documentation, and learning resources to the open-source ecosystem. These materials are also available for our partners to use even after we have delivered a successful project.**
 
 ## Our team
-Lombiq’s team consists of highly skilled experts from diverse backgrounds:
+Lombiq's team consists of highly skilled experts from diverse backgrounds:
 
-![Team](https://user-images.githubusercontent.com/68704777/172594376-9a506b57-4434-4536-95d7-2da33a5bd6fb.PNG)
+ <img src="https://user-images.githubusercontent.com/68704777/173390541-bf4c0068-611b-4552-8983-99afb10f4acf.jpg" width="1400" height="700">
+
 
 ## Open-source and open hearts
 Apart from the software world we also try to help in other communities with our philanthropic activities. Most recently, we've delivered thousands of reusable masks to the Hungarian Charity Service of the Order of Malta during the coronavirus pandemic, as well as help for refugees of the war in Ukraine, and again.
