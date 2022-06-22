@@ -22,8 +22,6 @@ We offer Orchard consulting in both Orchard editions, Orchard Core and Orchard C
 ### Training:
 Our team of dedicated experts is here to help groups and individuals who want to learn about Orchard or simply broaden their coding knowledge. Our [Orchard Dojo](https://orcharddojo.net/) website contains several training sessions to help beginners become experts.
 
-![Orchard Dojo](https://user-images.githubusercontent.com/68704777/174299406-a7ea1222-a1a8-457e-b68f-e3570bf2d5b6.png)
-
 
 **We also contribute a vast amount of code, documentation, and learning resources to the open-source ecosystem. These materials are also available for our partners to use even after we have delivered a successful project.**
 
@@ -32,23 +30,21 @@ Our team of dedicated experts is here to help groups and individuals who want to
 
 * [**Hastlayer**](https://hastlayer.com/) turns performance-critical sections of .NET programs into computer chips (FPGA). You can still update your software, but it will be a whole lot faster and more power-efficient.
   
-![Hastlayer_logo](https://user-images.githubusercontent.com/68704777/174298010-59da9056-74f0-48a5-a6f3-ff3f93a2b346.png)
 
 * [**DotNest**](https://dotnest.com/) We've developed DotNest as a software-as-a-service for Orchard CMS, enabling users to create their websites using Orchard in a flash. Today it runs more than 6000 websites.
-
- ![DotNest logo medium](https://user-images.githubusercontent.com/68704777/174301139-3c4ab813-8fe8-4ca1-a428-d9bf4cd98bdb.png)
 
 
 ## Our team
 
 Lombiq's team consists of highly skilled experts from diverse backgrounds:
+
  
- ![lombiq team 2021 summer](https://user-images.githubusercontent.com/68704777/174300662-93d75ff3-5c7d-48c4-9236-775634402287.jpg)
+ <img src="lombiq-team-2021-summer_50.jpg" alt="lombiq team 2021 summer" width="1000"  height="700">
 
 
-## [Open source](https://lombiq.com/open-source) and open hearts
+## Open source and open hearts
 
-Apart from the software world we also try to help in other communities with our philanthropic activities. Most recently, we've delivered thousands of reusable masks to the Hungarian Charity Service of the Order of Malta during the coronavirus pandemic, as well as help for refugees of the war in Ukraine, and again.
+Apart from the [Open source](https://lombiq.com/open-source) software world, we also try to help in other communities with our philanthropic activities. Most recently, we've delivered thousands of reusable masks to the Hungarian Charity Service of the Order of Malta during the coronavirus pandemic, as well as help for refugees of the war in Ukraine, and again.
 
 # Would you like to contribute to our projects?
 
