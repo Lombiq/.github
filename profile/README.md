@@ -44,7 +44,7 @@ Lombiq's team consists of highly skilled experts from diverse backgrounds:
 
 ## Open source and open hearts
 
-Apart from the [Open source](https://lombiq.com/open-source) software world, we also try to help in other communities with our philanthropic activities. Most recently, we've delivered thousands of reusable masks to the Hungarian Charity Service of the Order of Malta during the coronavirus pandemic, as well as help for refugees of the war in Ukraine, and again.
+Apart from [our activities in the open-source world](https://lombiq.com/open-source), we also try to help other communities with our philanthropic activities. Most recently, we've delivered thousands of reusable masks to the Hungarian Charity Service of the Order of Malta during the coronavirus pandemic, as well as help for refugees of the war in Ukraine, and again.
 
 # Would you like to contribute to our projects?
 
