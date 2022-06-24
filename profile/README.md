@@ -6,9 +6,9 @@
 Our main area of expertise is the [Orchard Core content management system](https://www.orchardcore.net/). We provide custom development, training, hosting, and consulting services and we are behind the first (and only) Orchard CMS SaaS, [DotNest](https://dotnest.com).
 
 
-## Our services:
+## Our services
 
-### Software development: 
+### Software development
 Our team's passion is developing software with care for clients who need help with their most extraordinary projects in the following frameworks:
 
 - Orchard Core
@@ -16,17 +16,17 @@ Our team's passion is developing software with care for clients who need help wi
 - ASP.NET Core
 - ASP.NET
 
-### Consulting:
+### Consulting
 We offer Orchard consulting in both Orchard editions, Orchard Core and Orchard CMS, including website and application development, and code review.
 
-### Training:
+### Training
 Our team of dedicated experts is here to help groups and individuals who want to learn about Orchard or simply broaden their coding knowledge. Our [Orchard Dojo](https://orcharddojo.net/) website contains several training sessions to help beginners become experts.
 
 
 **We also contribute a vast amount of code, documentation, and learning resources to the open-source ecosystem. These materials are also available for our partners to use even after we have delivered a successful project.**
 
 
-## Products:
+## Products
 
 * [**Hastlayer**](https://hastlayer.com/) turns performance-critical sections of .NET programs into computer chips (FPGA). You can still update your software, but it will be a whole lot faster and more power-efficient.
   
@@ -39,12 +39,12 @@ Our team of dedicated experts is here to help groups and individuals who want to
 Lombiq's team consists of highly skilled experts from diverse backgrounds:
 
  
- <img src="lombiq-team-2021-summer_50.jpg" alt="lombiq team 2021 summer" width="1000"  height="700">
+ ![lombiq team 2021 summer](lombiq-team-2021-summer.jpg) 
 
 
-## Open source and open hearts
+## Open-source and open hearts
 
-Apart from the [Open source](https://lombiq.com/open-source) software world, we also try to help in other communities with our philanthropic activities. Most recently, we've delivered thousands of reusable masks to the Hungarian Charity Service of the Order of Malta during the coronavirus pandemic, as well as help for refugees of the war in Ukraine, and again.
+Apart from [our activities in the open-source world](https://lombiq.com/open-source), we also try to help other communities with our philanthropic activities. Most recently, we've delivered thousands of reusable masks to the Hungarian Charity Service of the Order of Malta during the coronavirus pandemic, as well as help for refugees of the war in Ukraine, and again.
 
 # Would you like to contribute to our projects?
 
