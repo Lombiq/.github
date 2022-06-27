@@ -39,7 +39,7 @@ Our team of dedicated experts is here to help groups and individuals who want to
 Lombiq's team consists of highly skilled experts from diverse backgrounds:
 
  
- ![Lombiq team 2021 summer](lombiq-team-2021-summer.jpg) 
+ ![Lombiq team 2021 summer](/profile/lombiq-team-2021-summer.jpg) 
 
 
 ## Open-source and open hearts
