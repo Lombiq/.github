@@ -25,9 +25,8 @@ Our team of dedicated experts is here to help groups and individuals who want to
 
 ## Products
 
-* [**Hastlayer**](https://hastlayer.com/) turns performance-critical sections of .NET programs into computer chips (FPGA). You can still update your software, but it will be a whole lot faster and more power-efficient.
-
-* [**DotNest**](https://dotnest.com/) We've developed DotNest as a software-as-a-service for Orchard CMS, enabling users to create their websites using Orchard in a flash. Today it runs more than 6000 websites.
+- [**Hastlayer**](https://hastlayer.com/) turns performance-critical sections of .NET programs into computer chips (FPGA). You can still update your software, but it will be a whole lot faster and more power-efficient.
+- [**DotNest**](https://dotnest.com/) We've developed DotNest as a software-as-a-service for Orchard CMS, enabling users to create their websites using Orchard in a flash. Today it runs more than 6000 websites.
 
 ## Our team
 
