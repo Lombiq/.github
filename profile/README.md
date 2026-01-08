@@ -32,7 +32,7 @@ Our team of dedicated experts is here to help groups and individuals who want to
 
 Lombiq's team consists of highly skilled experts from diverse backgrounds:
 
-![The Lombiq team](/profile/lombiq-team-2024-december.webp) 
+![The Lombiq team](/profile/lombiq-team-2025-december.webp) 
 
 ## Open-source and open hearts
 
